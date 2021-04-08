@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "OfficeSuppliesStore", "OfficeSuppliesStore\OfficeSuppliesStore.dtproj", "{2A5D22B0-02CA-4FFB-ADF9-F5EE64C5CFF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A5D22B0-02CA-4FFB-ADF9-F5EE64C5CFF7}.Development|Default.ActiveCfg = Development
+		{2A5D22B0-02CA-4FFB-ADF9-F5EE64C5CFF7}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFBA6B0D-A168-4761-A1C6-4EA77D83963F}
+	EndGlobalSection
+EndGlobal

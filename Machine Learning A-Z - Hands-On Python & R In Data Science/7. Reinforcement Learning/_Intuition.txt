@@ -1,0 +1,3 @@
+https://towardsdatascience.com/comparing-multi-armed-bandit-algorithms-on-marketing-use-cases-8de62a851831
+
+https://www.aionlinecourse.com/tutorial/machine-learning/upper-confidence-bound-%28ucb%29

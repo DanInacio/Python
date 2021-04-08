@@ -1,0 +1,30 @@
+https://stackabuse.com/association-rule-mining-via-apriori-algorithm-in-python/
+
+"People who bought also bought"
+
+Can also be used for movie recommendations
+"People who liked Movie 1 may also like Movie 2"
+
+
+SUPPORT: default popularity of an item
+support = (number of users who watched M) / (number of users)
+
+CONFIDENCE: likelihood of association that an item B is also bought if item A is bought
+confidence = (number of users who watched M1 and M2) / (number of users who watched M1)
+
+LIFT: increase in the ratio of sale of B when A is sold
+confidence/support
+
+METHOD
+1. Set a minimum support and confidence
+2. Take all subsets with higher support than minimum support
+3. Take all subsets with higher confidence than minimum confidence
+4. Sort by decreasing lift
+
+
+Eclat is the same except there is no confidence or lift. ONLY SUPPORT VALUES!
+
+METHOD
+1. Set a minimum support
+2. Take all subsets with higher support than minimum support
+4. Sort by decreasing support

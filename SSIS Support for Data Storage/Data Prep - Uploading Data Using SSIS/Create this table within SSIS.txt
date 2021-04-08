@@ -1,0 +1,10 @@
+CREATE TABLE [RAW_BankCustomerDemo_20210107] (
+    [RowNumber] int identity(1,1),
+    [Customer ID] varchar(50),
+    [Name] varchar(50),
+    [Surname] varchar(50),
+    [Gender] varchar(50),
+    [Age] varchar(50),
+    [Date Joined] varchar(50),
+    [Balance] varchar(50)
+)

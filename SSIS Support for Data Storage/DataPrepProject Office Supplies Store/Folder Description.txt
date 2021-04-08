@@ -1,0 +1,17 @@
+1. Original Data
+	ONLY ADD DATA, NEVER MODIFY IT
+
+2. Prepared Data
+	MODIFICATIONS, I.E., CLEAN AND TRANSFORMED DATA
+
+3. Uploaded Data
+	Temporary folder for data to be uploaded
+
+4. Analysis
+	Codes, scripts, etc. (Python, R, Scala, ...)
+
+5. Insights
+	Preliminary results
+
+6. Final
+	Draft and Final Reports
